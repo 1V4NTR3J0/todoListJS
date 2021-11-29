@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO List
 
-Configuración inicial de webpack.
+Practica de listado de tareas con JS.
 
 ## Notas:
 
